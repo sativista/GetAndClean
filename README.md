@@ -1,6 +1,6 @@
 ## Summary
 
-The main script *run_analysis.R* generates two clean data sets from the raw data contained in the "Human Activity Recognition Using Smartphones Data Set".  The clean data set named *UCI-HAR-tidy-Dataset.txt* is a union of the raw training and test data with features added for the subject and activity associated with each sample row.  The clean data set named *UCI-HAR-tidy-means-Dataset.txt* contains the means for each unique subject/activity group present in the *UCI-HAR-tidy-Dataset.txt* data set.
+The main script *run_analysis.R* generates two clean data sets from the raw data contained in the "Human Activity Recognition Using Smartphones Data Set".  The clean data set named *tidy-Dataset.txt* is a union of the raw training and test data with features added for the subject and activity associated with each sample row.  The clean data set named *tidy-means-Dataset.txt* contains the means for each unique subject/activity group present in the *tidy-Dataset.txt* data set.
 
 ## Requirements
 
